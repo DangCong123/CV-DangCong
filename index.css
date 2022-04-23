@@ -1,18 +1,11 @@
-
-#tieude{
+body{
+    padding: 0;
+    margin: 0;
     text-align: center;
-    color: white;
-    background-color: rgb(228, 114, 0);
 }
-#bang{
-    margin-left: 739px;
-    
-    background: rgb(136, 186, 233);
-    padding: 10px;
-    color: #000;
-    
+h1{
+    color: aquamarine;
 }
-#khung{
-    border-style: solid;
-    border-color:rgb(97, 100, 100) ;
+h2{
+    color: blue;
 }
